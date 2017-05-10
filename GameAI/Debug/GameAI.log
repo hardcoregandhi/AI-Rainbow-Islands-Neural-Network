@@ -1,0 +1,61 @@
+﻿  tinyxmlparser.cpp
+  tinyxmlerror.cpp
+  tinyxml.cpp
+  tinystr.cpp
+  Texture2D.cpp
+  Source.cpp
+  VirtualJoypad.cpp
+  LevelMap.cpp
+  GameScreen_RainbowIslands.cpp
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\rainbowislands\gamescreen_rainbowislands.cpp(45): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\rainbowislands\gamescreen_rainbowislands.cpp(203): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\rainbowislands\gamescreen_rainbowislands.cpp(491): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\rainbowislands\gamescreen_rainbowislands.cpp(494): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\rainbowislands\gamescreen_rainbowislands.cpp(950): warning C4018: '<': signed/unsigned mismatch
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\rainbowislands\gamescreen_rainbowislands.cpp(1063): warning C4018: '<': signed/unsigned mismatch
+  CharacterRainbow.cpp
+  CharacterFruit.cpp
+  CharacterChest.cpp
+  CharacterCaterpillar.cpp
+  CharacterBub.cpp
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\rainbowislands\characterbub.cpp(321): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\rainbowislands\characterbub.cpp(322): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\rainbowislands\characterbub.cpp(324): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\rainbowislands\characterbub.cpp(325): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\rainbowislands\characterbub.cpp(360): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\rainbowislands\characterbub.cpp(362): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  Character.cpp
+  NeuralNetwork.cpp
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\neuralnetwork.cpp(207): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\neuralnetwork.cpp(246): warning C4018: '<': signed/unsigned mismatch
+  LunarLander.cpp
+  GameScreen_Lunar.cpp
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\lunar\gamescreen_lunar.cpp(224): warning C4156: deletion of an array expression without using the array form of 'delete'; array form substituted
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\lunar\gamescreen_lunar.cpp(224): warning C4154: deletion of an array expression; conversion to pointer supplied
+  GeneticAlgorithm.cpp
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\geneticalgorithm.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\geneticalgorithm.cpp(120): warning C4018: '<': signed/unsigned mismatch
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\geneticalgorithm.cpp(164): warning C4018: '<': signed/unsigned mismatch
+  GameScreenManager.cpp
+  Generating Code...
+  Compiling...
+  GameScreen.cpp
+  GameScreen_Conway.cpp
+  Collisions.cpp
+  ChessPlayer.cpp
+  GameScreen_Chess.cpp
+  ChessOpenings.cpp
+  ChessMoveManager.cpp
+  ChessPlayerAI.cpp
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\chessplayerai.cpp(90): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\chessplayerai.cpp(136): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\chessplayerai.cpp(203): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\chessplayerai.cpp(234): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\chessplayerai.cpp(506): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\chessplayerai.cpp(549): warning C4018: '>=': signed/unsigned mismatch
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\chessplayerai.cpp(584): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\chessplayerai.cpp(613): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+c:\users\hardcoregandhi\desktop\ai final build\advancedai - copy\gameai\chessplayerai.cpp(651): warning C4305: '=': truncation from 'const int' to 'float'
+  ChessClosings.cpp
+  Generating Code...
+  GameAI.vcxproj -> C:\Users\hardcoregandhi\Desktop\AI Final Build\AdvancedAI - Copy\Debug\GameAI.exe

@@ -1,0 +1,15 @@
+﻿  NeuralNetwork.cpp
+NeuralNetwork.cpp(207): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  GameScreen_RainbowIslands.cpp
+RainbowIslands\GameScreen_RainbowIslands.cpp(43): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+RainbowIslands\GameScreen_RainbowIslands.cpp(159): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+RainbowIslands\GameScreen_RainbowIslands.cpp(844): warning C4018: '<': signed/unsigned mismatch
+RainbowIslands\GameScreen_RainbowIslands.cpp(939): warning C4018: '<': signed/unsigned mismatch
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+  Generating code
+  10 of 1858 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    49 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GameAI.vcxproj -> C:\Users\r026405b\Desktop\AdvancedAI Student Copy 16.02\AdvancedAI Student Copy 06.02\AdvancedAI Student Copy 03.02\AdvancedAI Student Copy 2.02\AdvancedAI Student Copy 23.01\Release\GameAI.exe
+  GameAI.vcxproj -> C:\Users\r026405b\Desktop\AdvancedAI Student Copy 16.02\AdvancedAI Student Copy 06.02\AdvancedAI Student Copy 03.02\AdvancedAI Student Copy 2.02\AdvancedAI Student Copy 23.01\Release\GameAI.pdb (Full PDB)
